@@ -1,0 +1,28 @@
+name: Thinkfirst
+favicon: null
+layout_spectrum: 0.30228836042806506
+typography_spectrum: 0.7127217364031821
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3887798632495105
+  lightness: 0.35166165116243064
+  saturation: 0.8829119554720819
+  rhythmicContrast: 0.4037938972469419
+purpose: []
