@@ -1,5 +1,7 @@
-favicon: null
-name: Thinkfirst
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -29,12 +31,10 @@ color:
     - '#534C4B'
   rhythmicContrast: 0.6469534
 typography_spectrum: 0.7127217364031821
-layout_spectrum: 0.3022883604280651
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 0.7096774
+favicon: null
+name: Thinkfirst
