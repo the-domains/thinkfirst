@@ -1,4 +1,5 @@
-layout_spectrum: 0.3022883604280651
+favicon: null
+name: Thinkfirst
 opengraph:
   image: null
   type: null
@@ -17,24 +18,23 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.8829119554720819
-  lightness: 0.3516616511624306
+  saturation: 0.882912
   brandStrength: 0.8942652
+  lightness: 0.3516617
   brandColors:
     - '#0C0D0D'
     - '#9A9AA4'
     - '#31302F'
     - '#BDBDC6'
     - '#534C4B'
-  rhythmicContrast: 0.4037938972469419
+  rhythmicContrast: 0.6469534
 typography_spectrum: 0.7127217364031821
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.3022883604280651
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: Thinkfirst
+cta:
+  bucket: null
+  version: null
+  domain: null
