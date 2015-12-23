@@ -1,3 +1,4 @@
+favicon: null
 analytics:
   twitter: null
   google: null
@@ -12,29 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.882912
+  lightness: 0.5268817
   brandStrength: 0.8942652
-  lightness: 0.3516617
   brandColors:
     - '#0C0D0D'
     - '#9A9AA4'
     - '#31302F'
     - '#BDBDC6'
     - '#534C4B'
-  rhythmicContrast: 0.6469534
-typography_spectrum: 0.7127217364031821
+  rhythmicContrast: 0.5824373
+typography_spectrum: 0.2275986
+layout_spectrum: 0.7096774
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.7096774
-favicon: null
 name: Thinkfirst
