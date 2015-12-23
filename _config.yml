@@ -1,28 +1,40 @@
-name: Thinkfirst
-favicon: null
-layout_spectrum: 0.30228836042806506
-typography_spectrum: 0.7127217364031821
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.3022883604280651
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.3887798632495105
-  lightness: 0.35166165116243064
-  saturation: 0.8829119554720819
-  rhythmicContrast: 0.4037938972469419
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.8829119554720819
+  lightness: 0.3516616511624306
+  brandStrength: 0.8942652
+  brandColors:
+    - '#0C0D0D'
+    - '#9A9AA4'
+    - '#31302F'
+    - '#BDBDC6'
+    - '#534C4B'
+  rhythmicContrast: 0.4037938972469419
+typography_spectrum: 0.7127217364031821
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Thinkfirst
